@@ -1,22 +1,3 @@
-# langchain
-# streamlit
-# replicate
-# sentence_transformers
-# pdf2image
-# pypdf
-# xformers
-# bitsandbytes 
-# accelerate 
-# transformers
-# faiss-cpu
-# PyPDF2
-
-
-
-
-
-
-
 langchain
 torch
 accelerate
