@@ -1,0 +1,33 @@
+# langchain
+# streamlit
+# replicate
+# sentence_transformers
+# pdf2image
+# pypdf
+# xformers
+# bitsandbytes 
+# accelerate 
+# transformers
+# faiss-cpu
+# PyPDF2
+
+
+
+
+
+
+
+langchain
+torch
+accelerate
+sentence_transformers
+streamlit_chat
+streamlit
+faiss-cpu
+tiktoken
+ctransformers
+huggingface-hub
+pypdf
+python-dotenv
+replicate
+docx2txt
